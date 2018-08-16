@@ -1,0 +1,18 @@
+{
+  "name": "guess-50",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bot-sdk": "^1.1.1",
+    "express": "^4.16.2",
+    "lodash": "^4.17.5",
+    "nedb": "^1.8.0"
+  }
+}
